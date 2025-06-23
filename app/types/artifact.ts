@@ -1,4 +1,4 @@
-export interface BoltArtifactData {
+export interface ZamaArtifactData {
   id: string;
   title: string;
 }
